@@ -1,0 +1,5 @@
+###blacklist.txt
+
+##use the following format 0.0.0.0 emotet.net
+
+0.0.0.0 draftkings.com
